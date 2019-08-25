@@ -1,7 +1,9 @@
-
 # Padrao strategy
 
+![padrão de projetos strategy](https://www.thiengo.com.br/img/post/normal/09j782i4d422a779bkf7907oi3950ab95fe613edf46f2c3cebb61d52d3.jpg)
+
 Esse Padrão faz parte da gangue dos 4 (GoF) e é um padrao comportamental, ou seja, é um padrao usado em rotina de comportamento do sistema.
+[Projeto de exemplo no github](https://github.com/Notim/Design-patterns-Strategy)
 
 ## Quando usar  
 
@@ -23,7 +25,7 @@ imagina que exista uma rotina que define qual vai ser a estrategia de intvestime
 e que existem estrategias diferentes de rendimento que dependem de qual perfil de investidor do cara que ta investindo.
 Sendo: _Agressivo_, _Moderado_ e _conservador_.
 cada um dos perfis tem regras de rendiment diferentes.
-Foi criado uma iterface chamada `IInvestorProfileStrategy`
+Foi criado uma iterface chamada `IInvestorProfileStrategy` e suas implementações: `ConservativeProfileStrategy`, `ModerateProfileStrategy` e `AggressiveProfileStrategy`
 
 ```CSharp
 // Esse é o molde para as classes
@@ -147,3 +149,8 @@ Application Income for Aggressive: R$ 437.500,00
 **_Realizador de orcamento com Calculador de impostos_**.
 imagina onde exista uma caralhada de tipos de impostos, e que basicamente ele faz a mesma coisa no final que é
 ser somado no valor total de um orçamento. Foi criado uma interface chamada ITax que possui um metodo chamado Calcular. Pra cada tipo de imposto diferente você implementa a interface e usa o método pra realizar as regras inclusive usar recursos externos.
+
+**Referencias:**
+[https://www.alura.com.br](https://www.alura.com.br/curso-online-design-patterns-dotnet)
+[http://www.linhadecodigo.com.br](http://www.linhadecodigo.com.br/artigo/3268/strategy-padrao-de-projeto-com-microsoft-net-csharp.aspx)
+[https://www.thiengo.com.br](https://www.thiengo.com.br/padrao-de-projeto-strategy-estrategia)
