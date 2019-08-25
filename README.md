@@ -26,6 +26,14 @@ cada um dos perfis tem regras de rendiment diferentes.
 Foi criado uma iterface chamada `IInvestorProfileStrategy`
 
 ```CSharp
+// Esse é o molde para as classes
+public interface IInvestorProfileStrategy
+{
+    decimal calculate(BankAccount Account);
+}
+```
+
+```CSharp
 // essa é a entidade que vai ser usada nas estratégias
 public class BankAccount
 {
@@ -33,15 +41,7 @@ public class BankAccount
 }
 ```
 
-```CSharp
-// Esse eh o molde para as classes
-public interface IInvestorProfileStrategy
-{
-    decimal calculate(BankAccount Account);
-}
-```
-
-Foram criadas as implementacoes de acordo com as regras de negocio especificas para cada um dos perfis.
+Foram criadas as implementacoes de acordo com as regras de negócio específicas para cada um dos perfis.
 
 > Regras para perfil Conservador: sempre rendera 6.5% do saldo
 
@@ -55,7 +55,7 @@ public class ConservativeProfileStrategy : IInvestorProfileStrategy
 }
 ```
 
-> Regras para perfil Moderado: 50% de chance de render 25% e 50% de render 15%
+> Regras para perfil Moderado: 50% de chance de render 25% e 50% de chance de render 15%
 
 ```CSharp
 public class ModerateProfileStrategy : IInvestorProfileStrategy
@@ -63,9 +63,9 @@ public class ModerateProfileStrategy : IInvestorProfileStrategy
 
     public decimal calculate(BankAccount Account)
     {
-        bool escolhido = new Random().Next(100) > 50;
+        bool choose = new Random().Next(100) > 50;
 
-        return (decimal) (escolhido ? 0.25 : 0.15) * Account.Balance;
+        return (decimal) (choose ? 0.25 : 0.15) * Account.Balance;
     }
 }
 ```
@@ -77,15 +77,15 @@ public class AggressiveProfileStrategy : IInvestorProfileStrategy
 {
     public decimal calculate(BankAccount Account)
     {
-        var rdn = new Random().Next(100);
+        var choose = new Random().Next(100);
         var fator = (float) 0.0;
-        if (rdn <= 20) {
+        if (choose <= 20) {
             fator = (float) 0.5;
         }
-        if (rdn > 20 && rdn <= 30) {
+        if (choose > 20 && choose <= 30) {
             fator = (float) 0.25;
         }
-        if (rdn > 30) {
+        if (choose > 30) {
             fator = (float) 0.10;
         }
 
