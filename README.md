@@ -137,7 +137,7 @@ class Program
 Saída no console com os perfis:
 
 ```Console
-[master notim@lenovo-ideapad: ~/GitHub/Notim/Design-patterns-Strategy/Investments]$ dotnet run
+[notim@lenovo-ideapad: ~/GitHub/Notim/Design-patterns-Strategy/Investments]$ dotnet run
 Start Value: R$ 500.000,00
 Application Income for Conservetive: R$ 56.875,00
 Application Income for Moderate: R$ 218.750,00
