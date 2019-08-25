@@ -1,0 +1,11 @@
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/bin/Debug/netcoreapp2.2/Investments.deps.json
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/bin/Debug/netcoreapp2.2/Investments.runtimeconfig.json
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/bin/Debug/netcoreapp2.2/Investments.runtimeconfig.dev.json
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/bin/Debug/netcoreapp2.2/Investments.dll
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/bin/Debug/netcoreapp2.2/Investments.pdb
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/Debug/netcoreapp2.2/Investments.csprojAssemblyReference.cache
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/Debug/netcoreapp2.2/Investments.csproj.CoreCompileInputs.cache
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/Debug/netcoreapp2.2/Investments.AssemblyInfoInputs.cache
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/Debug/netcoreapp2.2/Investments.AssemblyInfo.cs
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/Debug/netcoreapp2.2/Investments.dll
+/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/Debug/netcoreapp2.2/Investments.pdb
