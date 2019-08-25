@@ -150,7 +150,7 @@ Application Income for Aggressive: R$ 437.500,00
 imagina onde exista uma caralhada de tipos de impostos, e que basicamente ele faz a mesma coisa no final que é
 ser somado no valor total de um orçamento. Foi criado uma interface chamada ITax que possui um metodo chamado Calcular. Pra cada tipo de imposto diferente você implementa a interface e usa o método pra realizar as regras inclusive usar recursos externos.
 
-**Referencias:**
-[https://www.alura.com.br](https://www.alura.com.br/curso-online-design-patterns-dotnet)
-[http://www.linhadecodigo.com.br](http://www.linhadecodigo.com.br/artigo/3268/strategy-padrao-de-projeto-com-microsoft-net-csharp.aspx)
+**Referencias:**  
+[https://www.alura.com.br](https://www.alura.com.br/curso-online-design-patterns-dotnet)  
+[http://www.linhadecodigo.com.br](http://www.linhadecodigo.com.br/artigo/3268/strategy-padrao-de-projeto-com-microsoft-net-csharp.aspx)  
 [https://www.thiengo.com.br](https://www.thiengo.com.br/padrao-de-projeto-strategy-estrategia)

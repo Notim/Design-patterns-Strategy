@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff8e7186-3f4c-4b02-8b2f-1e1a8ba5b718" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StrategyPattern/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Budget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Budget.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/BudgetCalculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Taxes/ITax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Taxes/vendors/ICCC.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Taxes/vendors/ICMS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/Taxes/vendors/ISS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/App.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/App.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/Budget.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/Budget.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/StrategyPattern.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/StrategyPattern.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/bin/Debug/netcoreapp2.2/StrategyPattern.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/APP.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/APP.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/APP.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/APP.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/App.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/App.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/App.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/App.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Budget.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Budget.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Budget.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Budget.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/APP.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/APP.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/APP.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/App.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Budget.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Budget.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Budget.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Orcamento.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Orcamento.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Orcamento.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/Orcamento.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/netcoreapp2.2/StrategyPattern.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Orcamento.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Orcamento.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Orcamento.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/Orcamento.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/StrategyPattern.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/StrategyPattern.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/StrategyPattern.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/StrategyPattern.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/Entities/BankAccount.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/InvestmentDirector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/Investments.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/InvestorProfiles/IInvestorProfileStrategy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/InvestorProfiles/Vendors/AggressiveProfileStrategy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/InvestorProfiles/Vendors/ConservativeProfileStrategy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/InvestorProfiles/Vendors/ModerateProfileStrategy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investimentos.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investimentos.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investimentos.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investments.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investments.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investments.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investments.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/bin/Debug/netcoreapp2.2/Investments.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investimentos.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Debug/netcoreapp2.2/Investments.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investimentos.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investimentos.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investimentos.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investimentos.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investments.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investments.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investments.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/Investments.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Investments/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyPattern.sln" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StrategyPattern/StrategyPattern.csproj" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Orcament.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Interface/ITax.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Budget.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/TaxCalculator.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Taxes/ITax.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Taxes/Implements/ICMS.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Taxes/Implements/ISS.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Taxes/BudgetCalculator.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/README.md" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Taxes/vendors/ISS.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Taxes/vendors/ICMS.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/BudgetCalculator.cs" />
+        <option value="$PROJECT_DIR$/StrategyPattern/Program.cs" />
+        <option value="$PROJECT_DIR$/APP/Program.cs" />
+        <option value="$PROJECT_DIR$/App/Taxes/ITax.cs" />
+        <option value="$PROJECT_DIR$/App/Taxes/vendors/ICCC.cs" />
+        <option value="$PROJECT_DIR$/App/Program.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/PerfisInvestidor/IPerfilInvestidor.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/Entities/BankAccount.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/IInvestorProfile.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors/ModerateProfile.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors/ConservativeProfile.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors/AggressiveProfile.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/IInvestorProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors/AggressiveProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors/ConservativeProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors/ModerateProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investimentos/InvestmentDirector.cs" />
+        <option value="$PROJECT_DIR$/Orcamento/Program.cs" />
+        <option value="$PROJECT_DIR$/Orcamento/README.md" />
+        <option value="$PROJECT_DIR$/Investimentos/Program.cs" />
+        <option value="$PROJECT_DIR$/Budget/Budget.csproj" />
+        <option value="$PROJECT_DIR$/Budget/Taxes/ITax.cs" />
+        <option value="$PROJECT_DIR$/Budget/Budget.cs" />
+        <option value="$PROJECT_DIR$/Budget/BudgetCalculator.cs" />
+        <option value="$PROJECT_DIR$/Budget/Program.cs" />
+        <option value="$PROJECT_DIR$/Budget/Taxes/vendors/ICCC.cs" />
+        <option value="$PROJECT_DIR$/Budget/Taxes/vendors/ICMS.cs" />
+        <option value="$PROJECT_DIR$/Budget/Taxes/vendors/ISS.cs" />
+        <option value="$PROJECT_DIR$/Investments/Investments.csproj" />
+        <option value="$PROJECT_DIR$/Investments/InvestorProfiles/IInvestorProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investments/Entities/BankAccount.cs" />
+        <option value="$PROJECT_DIR$/Investments/InvestorProfiles/Vendors/ModerateProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investments/InvestorProfiles/Vendors/ConservativeProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investments/InvestorProfiles/Vendors/AggressiveProfileStrategy.cs" />
+        <option value="$PROJECT_DIR$/Investments/InvestmentDirector.cs" />
+        <option value="$PROJECT_DIR$/Investments/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.StrategyPattern/.idea/projectSettingsUpdater.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PqyuUMQuawgsUKG6xdeGvVarrh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Investimentos/InvestorProfiles/Vendors" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff8e7186-3f4c-4b02-8b2f-1e1a8ba5b718" name="Default Changelist" comment="" />
+      <created>1566616144971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566616144971</updated>
+      <workItem from="1566616151837" duration="7358000" />
+      <workItem from="1566747252530" duration="2835000" />
+      <workItem from="1566751031944" duration="3174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="123" key="FileChooserDialogImpl" />
+    <state x="471" y="123" key="FileChooserDialogImpl/1366.768" />
+    <state x="317" y="106" key="Rider.ProjectTemplateDialog.Size" />
+    <state x="317" y="106" key="Rider.ProjectTemplateDialog.Size/1366.768" />
+    <state x="346" y="170" key="run.anything.popup" />
+    <state x="346" y="170" key="run.anything.popup/1366.768" />
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup" />
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup/1366.768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

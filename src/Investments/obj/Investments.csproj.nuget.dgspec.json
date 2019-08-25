@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/Investments.csproj": {}
+    "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Investments/Investments.csproj": {}
   },
   "projects": {
-    "/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/Investments.csproj": {
+    "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Investments/Investments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/Investments.csproj",
+        "projectUniqueName": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Investments/Investments.csproj",
         "projectName": "Investments",
-        "projectPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/Investments.csproj",
+        "projectPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Investments/Investments.csproj",
         "packagesPath": "/home/notim/.nuget/packages/",
-        "outputPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/Investments/obj/",
+        "outputPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Investments/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/notim/.config/NuGet/NuGet.Config"

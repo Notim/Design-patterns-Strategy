@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/notim/GitHub/Notim/Design-patterns-Strategy/Budget/Budget.csproj": {}
+    "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/Budget.csproj": {}
   },
   "projects": {
-    "/home/notim/GitHub/Notim/Design-patterns-Strategy/Budget/Budget.csproj": {
+    "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/Budget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/notim/GitHub/Notim/Design-patterns-Strategy/Budget/Budget.csproj",
+        "projectUniqueName": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/Budget.csproj",
         "projectName": "Budget",
-        "projectPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/Budget/Budget.csproj",
+        "projectPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/Budget.csproj",
         "packagesPath": "/home/notim/.nuget/packages/",
-        "outputPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/Budget/obj/",
+        "outputPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/notim/.config/NuGet/NuGet.Config"
