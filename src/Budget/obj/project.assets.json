@@ -700,7 +700,7 @@
       "outputPath": "/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/notim/.config/NuGet/NuGet.Config"
+        "/home/notim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

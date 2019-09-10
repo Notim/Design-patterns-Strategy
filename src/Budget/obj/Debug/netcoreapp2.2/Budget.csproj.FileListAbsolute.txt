@@ -1,0 +1,11 @@
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/bin/Debug/netcoreapp2.2/Budget.deps.json
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/bin/Debug/netcoreapp2.2/Budget.runtimeconfig.json
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/bin/Debug/netcoreapp2.2/Budget.runtimeconfig.dev.json
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/bin/Debug/netcoreapp2.2/Budget.dll
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/bin/Debug/netcoreapp2.2/Budget.pdb
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/Debug/netcoreapp2.2/Budget.csprojAssemblyReference.cache
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/Debug/netcoreapp2.2/Budget.csproj.CoreCompileInputs.cache
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/Debug/netcoreapp2.2/Budget.AssemblyInfoInputs.cache
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/Debug/netcoreapp2.2/Budget.AssemblyInfo.cs
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/Debug/netcoreapp2.2/Budget.dll
+/home/notim/GitHub/Notim/Design-patterns-Strategy/src/Budget/obj/Debug/netcoreapp2.2/Budget.pdb
